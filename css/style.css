@@ -7,7 +7,10 @@
 body {
     background-color: #000000;
     height: 100vh;
-    background-image: linear-gradient(315deg, #000000 0%, #414141 74%);
+    background-image: url("../S.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 li{
     list-style: none;
